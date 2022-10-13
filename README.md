@@ -1,2 +1,4 @@
-# lab-banco-digital-oo
- Banco digital simples prática de orientação a objetos em Java
+# Bootcamp Québec Java Digital - 1º Deafio de Projeto
+## Criando um Banco Digital com Java e Orientação a Objetos
+ Banco digital simples para prática de orientação a objetos em Java.
+ Este repositório é o resultado de um desafio de projeto da Digital Innovation One para a prática de orientação a objeto na linguagem de programação Java. Ele reproduz aspectos presentes no repositório que serve de base para o projeto ([ver](https://github.com/falvojr/lab-banco-digital-oo)), mas apresenta algumas funcionalidades adicionais, como a classe abstrata de transação e suas subclasses, o lançamento de uma exceção customizada para saldo insuficiente, assim como a dimensão temporal presente nessas transações, com o intuito de tornar a abstração mais próxima da realidade que se busca representar, a exemplo dos extratos financeiros que respeitam um intervalo de tempo informado.
